@@ -2,6 +2,7 @@ Source of GetuX Kernel for CyanogenMod 11 Totoro
 ================================================
 
 Special Thanks to Allah SWT
+
 Credits :
 - Cleverior
 - Androidarmv6
